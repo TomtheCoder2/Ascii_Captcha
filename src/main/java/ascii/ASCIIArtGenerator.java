@@ -6,13 +6,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Objects;
 
-/**
- * ASCII Art Generator in Java.
- * Prints a given text as an ASCII text art on the console.
- * This code is licensed under - CC Attribution CC BY 4.0.
- *
- * @author www.quickprogrammingtips.com
- */
+
 public class ASCIIArtGenerator {
 
     public static final int ART_SIZE_SMALL = 12;
